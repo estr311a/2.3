@@ -11,7 +11,7 @@
                     HorizontalAlignment="Center"
                     VerticalAlignment="Center">
             <TextBlock Text="Warsztat"
-                       FontSize="36"
+                       FontSize="40"
                        FontWeight="Bold"
                        Foreground="#274C77"
                        HorizontalAlignment="Center" />
