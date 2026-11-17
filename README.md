@@ -16,3 +16,4 @@ Projekt Avalonia do ćwiczenia sprawdzania zmian i pracy z historią Git.
 10. Zwiększono odstęp między elementami karty; diff zmiany: 1 dodana + 1 usunięta linia; rozumiem 2/2 linie.
 11. Zwiększono wysokość okna do 560 punktów; diff zmiany: 1 dodana + 1 usunięta linia; rozumiem 2/2 linie.
 12. Dodano podpis „Pracownia pomysłów” pod hasłem; diff zmiany: 4 dodane linie; rozumiem 4/4 linie.
+13. Dodano delikatny obrys białej karty; diff zmiany: 2 dodane linie; rozumiem 2/2 linie.

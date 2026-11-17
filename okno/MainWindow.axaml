@@ -8,6 +8,8 @@
         Width="800" Height="560">
     <Grid Background="#FFF8E7">
         <Border Background="White"
+                BorderBrush="#E7D7B3"
+                BorderThickness="1"
                 CornerRadius="16"
                 Padding="40"
                 HorizontalAlignment="Center"
