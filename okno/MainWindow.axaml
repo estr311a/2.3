@@ -29,6 +29,8 @@
                            FontSize="13"
                            Foreground="#6B7280"
                            HorizontalAlignment="Center" />
+                <TextBlock Text="Tu zaczynają się dobre pomysły!"
+                           HorizontalAlignment="Center" />
             </StackPanel>
         </Border>
     </Grid>

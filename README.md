@@ -18,3 +18,4 @@ Projekt Avalonia do ćwiczenia sprawdzania zmian i pracy z historią Git.
 12. Dodano podpis „Pracownia pomysłów” pod hasłem; diff zmiany: 4 dodane linie; rozumiem 4/4 linie.
 13. Dodano delikatny obrys białej karty; diff zmiany: 2 dodane linie; rozumiem 2/2 linie.
 14. Zwiększono wewnętrzny odstęp karty do 48 punktów; diff zmiany: 1 dodana + 1 usunięta linia; rozumiem 2/2 linie.
+15. Dodano końcową zachętę „Tu zaczynają się dobre pomysły!”; diff zmiany: 2 dodane linie; rozumiem 2/2 linie.
