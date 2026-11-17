@@ -4,6 +4,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="okno.MainWindow"
-        Title="okno">
-    Welcome to Avalonia!
+        Title="2.3 - Warsztat"
+        Width="800" Height="500">
+    <Grid Background="#F4F1EA">
+        <TextBlock Text="Warsztat"
+                   FontSize="36"
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center" />
+    </Grid>
 </Window>
