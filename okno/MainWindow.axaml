@@ -12,7 +12,7 @@
                 Padding="40"
                 HorizontalAlignment="Center"
                 VerticalAlignment="Center">
-            <StackPanel Spacing="8" HorizontalAlignment="Center">
+            <StackPanel Spacing="12" HorizontalAlignment="Center">
                 <TextBlock Text="Warsztat"
                            FontSize="40"
                            FontWeight="Bold"
