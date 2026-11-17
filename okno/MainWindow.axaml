@@ -23,6 +23,10 @@
                            FontSize="16"
                            FontStyle="Italic"
                            HorizontalAlignment="Center" />
+                <TextBlock Text="Pracownia pomysłów"
+                           FontSize="13"
+                           Foreground="#6B7280"
+                           HorizontalAlignment="Center" />
             </StackPanel>
         </Border>
     </Grid>
