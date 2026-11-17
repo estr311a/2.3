@@ -6,7 +6,7 @@
         x:Class="okno.MainWindow"
         Title="Warsztat — 2.3"
         Width="800" Height="500">
-    <Grid Background="#F4F1EA">
+    <Grid Background="#FFF8E7">
         <StackPanel Spacing="8"
                     HorizontalAlignment="Center"
                     VerticalAlignment="Center">
