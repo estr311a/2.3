@@ -7,10 +7,16 @@
         Title="2.3 - Warsztat"
         Width="800" Height="500">
     <Grid Background="#F4F1EA">
-        <TextBlock Text="Warsztat"
-                   FontSize="36"
-                   FontWeight="Bold"
-                   HorizontalAlignment="Center"
-                   VerticalAlignment="Center" />
+        <StackPanel Spacing="8"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <TextBlock Text="Warsztat"
+                       FontSize="36"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center" />
+            <TextBlock Text="Małe kroki. Dobre pomysły."
+                       FontSize="16"
+                       HorizontalAlignment="Center" />
+        </StackPanel>
     </Grid>
 </Window>
