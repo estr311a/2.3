@@ -14,3 +14,4 @@ Projekt Avalonia do ćwiczenia sprawdzania zmian i pracy z historią Git.
 8. Dodano cienki separator między nagłówkiem a hasłem; diff zmiany: 1 dodana linia; rozumiem 1/1 linii.
 9. Zastosowano kursywę do hasła pod nagłówkiem; diff zmiany: 1 dodana linia; rozumiem 1/1 linii.
 10. Zwiększono odstęp między elementami karty; diff zmiany: 1 dodana + 1 usunięta linia; rozumiem 2/2 linie.
+11. Zwiększono wysokość okna do 560 punktów; diff zmiany: 1 dodana + 1 usunięta linia; rozumiem 2/2 linie.
