@@ -21,6 +21,7 @@
                 <Border Height="1" Background="#D9E2EC" Margin="24,8" />
                 <TextBlock Text="Małe kroki. Dobre pomysły."
                            FontSize="16"
+                           FontStyle="Italic"
                            HorizontalAlignment="Center" />
             </StackPanel>
         </Border>
