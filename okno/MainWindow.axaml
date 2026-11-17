@@ -7,17 +7,21 @@
         Title="Warsztat — 2.3"
         Width="800" Height="500">
     <Grid Background="#FFF8E7">
-        <StackPanel Spacing="8"
-                    HorizontalAlignment="Center"
-                    VerticalAlignment="Center">
-            <TextBlock Text="Warsztat"
-                       FontSize="40"
-                       FontWeight="Bold"
-                       Foreground="#274C77"
-                       HorizontalAlignment="Center" />
-            <TextBlock Text="Małe kroki. Dobre pomysły."
-                       FontSize="16"
-                       HorizontalAlignment="Center" />
-        </StackPanel>
+        <Border Background="White"
+                CornerRadius="16"
+                Padding="40"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+            <StackPanel Spacing="8" HorizontalAlignment="Center">
+                <TextBlock Text="Warsztat"
+                           FontSize="40"
+                           FontWeight="Bold"
+                           Foreground="#274C77"
+                           HorizontalAlignment="Center" />
+                <TextBlock Text="Małe kroki. Dobre pomysły."
+                           FontSize="16"
+                           HorizontalAlignment="Center" />
+            </StackPanel>
+        </Border>
     </Grid>
 </Window>

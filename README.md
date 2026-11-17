@@ -10,3 +10,4 @@ Projekt Avalonia do ćwiczenia sprawdzania zmian i pracy z historią Git.
 4. Zmieniono tło okna na ciepły, jasny odcień; diff zmiany: 1 dodana + 1 usunięta linia; rozumiem 2/2 linie.
 5. Nadano nagłówkowi ciemnoniebieski kolor; diff zmiany: 1 dodana linia; rozumiem 1/1 linii.
 6. Powiększono nagłówek do 40 punktów; diff zmiany: 1 dodana + 1 usunięta linia; rozumiem 2/2 linie.
+7. Umieszczono tekst na białej karcie z zaokrąglonymi rogami i odstępem wewnętrznym; diff zmiany: 16 dodanych + 12 usuniętych linii; rozumiem 28/28 linii.
